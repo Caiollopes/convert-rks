@@ -160,3 +160,13 @@ footer h1 {
   line-height: 3rem;
   word-break: break-all;
 }
+
+@media (max-width: 1000px) {
+  main {
+    width: 300px;
+  }
+
+  form {
+    padding: 3rem 2rem;
+  }
+}
